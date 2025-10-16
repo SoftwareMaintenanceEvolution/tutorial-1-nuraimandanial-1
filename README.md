@@ -1,9 +1,10 @@
 ## Hi There 👋
 
-<img align="left" src="https://github.com/user-attachments/assets/d203c2fa-51ca-45f7-a545-7e64a1671277" height="400"/>
+<img width="1584" height="450" alt="Cover BG" src="https://github.com/user-attachments/assets/f7ec9cdd-fc81-497f-84e7-ba3db0e2e193" /></br>
 
-Hi! I'm **Nuraiman Danial**, a student in the Software Maintenance and Evolution course.
-My expectation to this course is to learn all the new things related to software maintenance practice and how this will help me during software development process.
+<img align="left" src="https://github.com/user-attachments/assets/d203c2fa-51ca-45f7-a545-7e64a1671277" height="550"/>
+
+<p align="justify">Hi! I'm <b>Nuraiman Danial</b>, a student in the Software Maintenance and Evolution course. My expectation to this course is to learn all the new things related to software maintenance practice and how this will help me during software development process.</p>
 
 ```swift
 struct AboutMe: Identifiable {
